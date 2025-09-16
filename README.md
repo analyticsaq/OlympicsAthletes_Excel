@@ -141,8 +141,8 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 - **Total Medals by Country:** Information about Top countries in winning Olympics medals, which can help other country to make strategies accordingly.  
 - **Gold Medals for Country:** Which country are best in majorly sport, this can help in making many decisions like training, fitness, wellbeing, environment, etc.
 - **Distribution of Medals by Age Bracket:** Age Bracket can help countries in deciding which players age group they should be investing time.
-- **Percentage Distribution of Top 5 Medal Winning Sports:**  This further can help in deciding in which sport chances of winning medals are high, so countries can put efforts according to their capabilities. 
-- **Medals by Top 5 Country in Every Olympics:** This is to get more details about which countries are consistent in performing well in Olympics, so other countries can learn from them in many factors possible.
+- **Percentage Distribution of Top 5 Medal Winning Sports:**  Can help further in deciding in which sport chances of winning medals are high, so countries can put efforts according to their capabilities. 
+- **Medals by Top 5 Country in Every Olympics:** This to get more details about which countries are consistent in performing well in Olympics, so other countries can learn from them in many factors possible.
 
 ---
 

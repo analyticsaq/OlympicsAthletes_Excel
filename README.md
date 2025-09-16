@@ -52,7 +52,7 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 	Values: Total Medals as Sum of Total Medals
 -Pivot Chart
 	Choose Column Chart
-	![KPI1](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/logo.webp)
+	![KPI1](https://github.com/analyticsaq/OlympicsAthletes_Excel/blob/main/KPI1.png)
 
 ```
 
@@ -66,7 +66,7 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 	Values: Gold Medals as Sum of Gold Medals
 -Pivot Chart
 	Choose Bar Chart
-	![KPI2](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/logo.webp)
+	![KPI2](https://github.com/analyticsaq/OlympicsAthletes_Excel/blob/main/KPI2.png)
 
 ```
 
@@ -82,7 +82,7 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 	Value format as Percentage.
 -Pivot Chart
 	Choose Pie Chart
-	![KPI3](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/logo.webp)
+	![KPI3](https://github.com/analyticsaq/OlympicsAthletes_Excel/blob/main/KPI3.png)
 
 ```
 
@@ -98,7 +98,7 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 	Value formatted as percentage.
 -Pivot Chart
 	Choose Donut Chart
-	![KPI4](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/logo.webp)
+	![KPI4](https://github.com/analyticsaq/OlympicsAthletes_Excel/blob/main/KPI4.png)
 
 ```
 
@@ -113,7 +113,7 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
     Column: Country as Column Labels.
 -Pivot Chart
 	Choose Line Chart
-	![KPI5](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/logo.webp)
+	![KPI5](https://github.com/analyticsaq/OlympicsAthletes_Excel/blob/main/KPI5.png)
 
 ```
 
@@ -130,7 +130,7 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 -Added Icons, made them Responsive by adding link of sheets to navigate
  Also on others sheets to navigate here and forth.
 
-	![Dashboard](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/logo.webp)
+	![Dashboard](https://github.com/analyticsaq/OlympicsAthletes_Excel/blob/main/Dashboard.png)
 
 ```
 

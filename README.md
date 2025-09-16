@@ -1,5 +1,5 @@
 # 📊 Olympic Athlete Data Analysis using Excel
-	![Logo](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/logo.webp)
+	![Logo](https://github.com/analyticsaq/OlympicsAthletes_Excel/blob/main/logo.png)
 
 
 ## 📌 Overview

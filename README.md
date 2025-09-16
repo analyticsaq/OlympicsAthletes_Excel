@@ -129,6 +129,7 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 -Copy and Past all five Pivot Chart
 -Added Icons, made them Responsive by adding link of sheets to navigate
  Also on others sheets to navigate here and forth.
+-Added Slicers(for Years) for making it more interactive and dynamic.
 
 ```
 ![Dashboard](https://github.com/analyticsaq/OlympicsAthletes_Excel/blob/main/Dashboard.png)
@@ -137,14 +138,14 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 
 ## 📌 Findings & Conclusions
 
-- **Total Medals by Country:** Top countries in winning olypics medals 
-- **Gold Medals for Country:** Sellers can choose a strategy according to the these categories revenue. 
-- **Distribution of Medals by Age Bracket:** These report can be useful in strategizing the product launch.
-- **Percentage Distribution of Top 5 Medal Winning Sports:**  Sellers and Buyers both will be helped, by the information of average price of products.
-- **Medals by Top 5 Country in Every Olympics:**
+- **Total Medals by Country:** Information about Top countries in winning Olympics medals, which can help other country to make strategies accordingly.  
+- **Gold Medals for Country:** Which country are best in majorly sport, this can help in making many decisions like training, fitness, wellbeing, environment, etc.
+- **Distribution of Medals by Age Bracket:** Age Bracket can help countries in deciding which players age group they should be investing time.
+- **Percentage Distribution of Top 5 Medal Winning Sports:**  This further can help in deciding in which sport chances of winning medals are high, so countries can put efforts according to their capabilities. 
+- **Medals by Top 5 Country in Every Olympics:** This is to get more details about which countries are consistent in performing well in Olympics, so other countries can learn from them in many factors possible.
 
 ---
 
 ## 🚀 Final Thoughts
 
-This Excel-based exploratory data analysis offers a strategic overview of Amazon Sales. These insights can help content strategists, analysts, and business stakeholders make informed decisions around content curation, user targeting, and market focus.
+This Excel-based exploratory Olympics analysis offers a strategic overview of Olympics Athletes and Sports. These insights can help strategists, analysts, and other stakeholders to make impactful planning and strategies to reach their common goal.
